@@ -18,6 +18,11 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 ### CSS
 - [General](CSS/general.md)
 
+### Git
+- [ack](HTML/ack.md)
+- [alias](HTML/alias.md)
+- [ack](HTML/useful-commands.md)
+
 ### HTML
 - [General](HTML/general.md)
 
