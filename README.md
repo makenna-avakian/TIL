@@ -7,6 +7,7 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 ### Categories
 
 * [CSS](#CSS)
+* [Git](#Git)
 * [HTML](#HTML)
 * [React](#React)
 * [Tailwind](#Tailwind)
@@ -21,7 +22,8 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 ### Git
 - [ack](HTML/ack.md)
 - [alias](HTML/alias.md)
-- [ack](HTML/useful-commands.md)
+- [conflicts](HTML/conflicts.md)
+- [useful-commands](HTML/useful-commands.md)
 
 ### HTML
 - [General](HTML/general.md)
