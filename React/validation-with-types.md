@@ -1,4 +1,4 @@
-# Validating with PropType
+# Validating with PropType and Typescript
 
 ## Define PropTypes for Components
 In your TypeScript React components, you can define PropTypes using the PropTypes object provided by the prop-types library:
