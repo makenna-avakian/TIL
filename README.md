@@ -22,6 +22,7 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 ### Git
 - [ack](HTML/ack.md)
 - [alias](HTML/alias.md)
+- [config editor](HTML/config-editor.md)
 - [conflicts](HTML/conflicts.md)
 - [useful-commands](HTML/useful-commands.md)
 
@@ -29,7 +30,9 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 - [General](HTML/general.md)
 
 ### React
+- [Custom Components](React/custom-components.md)
 - [General](React/general.md)
+- [React APIs](React/react-api.md)
 
 ### Tailwind
 - [General](Tailwind/general.md)
