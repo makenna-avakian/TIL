@@ -33,6 +33,7 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 - [Custom Components](React/custom-components.md)
 - [General](React/general.md)
 - [React APIs](React/react-api.md)
+- [Validation with Types](React/valitation-with-types.md)
 
 ### Tailwind
 - [General](Tailwind/general.md)
