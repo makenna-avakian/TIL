@@ -32,7 +32,9 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 ### React
 - [Custom Components](React/custom-components.md)
 - [General](React/general.md)
+- [Prevent Default](React/preventdefault.md)
 - [React APIs](React/react-api.md)
+- [React Refs](React/react-refs.md)
 - [Validation with Types](React/valitation-with-types.md)
 
 ### Tailwind
