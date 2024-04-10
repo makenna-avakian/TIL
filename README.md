@@ -35,7 +35,7 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 - [Prevent Default](React/preventdefault.md)
 - [React APIs](React/react-api.md)
 - [React Refs](React/react-refs.md)
-- [Validation with Types](React/valitation-with-types.md)
+- [Validation with Types](React/validation-with-types.md)
 
 ### Tailwind
 - [General](Tailwind/general.md)
