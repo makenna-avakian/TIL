@@ -6,6 +6,7 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 
 ### Categories
 
+* [Accessibility](#Accessibility)
 * [CSS](#CSS)
 * [Git](#Git)
 * [HTML](#HTML)
@@ -15,6 +16,9 @@ A collection of small write ups on interesting topics. Inspired by @jbranchaud.
 
 
 ---
+### Accessibility
+- [Accessibility Basics](Accessibility/accessibility-basics.md)
+- [Screenreaders](Accessibility/screenreader.md)
 
 ### CSS
 - [General](CSS/general.md)
