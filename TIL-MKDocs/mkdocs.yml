@@ -1,0 +1,36 @@
+# Project information
+site_name: TIL
+site_url: https://makenna-avakian.github.io/TIL/
+site_author: Makenna Avakian
+site_description: >-
+  A place to store all the things I learn in a day.
+# Repository
+repo_name: makenna-avakian/TIL
+repo_url: https://github.com/makenna-avakian/TIL
+
+
+site_name: TIL
+theme:
+    name: material
+    palette:
+        primary: indigo
+        accent: indigo
+    font:
+        text: Roboto
+        code: Roboto Mono
+plugins:
+    - search
+    - minify:
+        minify_html: true
+    - git-revision-date
+nav:
+    - Home: index.md
+    - Accessibility: Accessibility/general.md
+    - CSS: CSS/general.md
+    - Git: Git/general.md
+    - HTML: HTML/general.md
+    - React: React/general.md
+extra_css:
+    - assets/custom.css
+extra_javascript:
+    - assets/custom.js
