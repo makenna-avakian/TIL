@@ -1,6 +1,6 @@
 # useReducer
 
-useReducer is a hook in React which handles states that have sub-values.
+useReducer is a hook in React which handles states that have sub-values. It is essentially used to return an updated state from an intital one.
 
 ## Syntax
 ```javascript
