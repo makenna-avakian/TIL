@@ -4,4 +4,3 @@ HTML is the standard markup language for creating web pages and web applications
 
 This folder will cover information about HTML.
 
-## Table of Contents:
