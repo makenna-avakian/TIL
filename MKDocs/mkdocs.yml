@@ -45,9 +45,12 @@ nav:
     - Home: index.md
     - Accessibility: Accessibility/general.md
     - CSS: CSS/general.md
+    - Design-Patterns: Design-Patterns/general.md
     - Git: Git/general.md
     - HTML: HTML/general.md
     - React: React/general.md
+    - Tailwind: Tailwind/general.md
+    - Vite: Vite/general.md
 extra_css:
     - assets/custom.css
 extra_javascript:
