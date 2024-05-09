@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "minify": "^11.1.1",
     "mkdocs": "^0.0.1",
     "python": "^0.0.4"
   }
