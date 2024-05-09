@@ -3,7 +3,7 @@ name: Deploy MkDocs Site
 on:
   push:
     branches:
-      - main  # Or your default branch
+      - main  
 
 jobs:
   deploy:
@@ -15,4 +15,5 @@ jobs:
         python-version: '3.x'
     - run: pip install mkdocs
     - run: pip install mkdocs-material
+    - run: python TIL-MKDocs/update_general_md.py 
     - run: mkdocs gh-deploy --force
