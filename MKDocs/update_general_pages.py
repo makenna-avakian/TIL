@@ -17,4 +17,4 @@ for category in categories:
 
 
 # Run this command to update the general.md files with new links
-# python update_general_pages.py
+# python3 update_general_pages.py
