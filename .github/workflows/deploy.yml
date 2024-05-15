@@ -13,9 +13,10 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - run: pip install mkdocs
-    - run: pip install mkdocs-material
-    - run: python MKDocs/update_general_pages.py 
+    - run: pip3 install mkdocs
+    - run: pip3 install mkdocs-minify-plugin 
+    - run: pip3 install mkdocs-material
+    - run: python3 MKDocs/update_general_pages.py 
     - name: Deploy MkDocs Site
       run: mkdocs gh-deploy --force
       working-directory: MKDocs
