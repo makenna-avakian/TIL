@@ -44,6 +44,7 @@ plugins:
 nav:
     - Home: index.md
     - Accessibility: Accessibility/general.md
+    - Angular: Angular/general.md
     - CSS: CSS/general.md
     - Design-Patterns: Design-Patterns/general.md
     - Git: Git/general.md
