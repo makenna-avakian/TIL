@@ -1,1 +1,11 @@
-#
+# Table of Contents
+* [angularReactComparison](angularReactComparison.md)
+* [angularFeatures](angularFeatures.md)
+* [aheadOfTime](aheadOfTime.md)
+* [angularTemplates](angularTemplates.md)
+* [angularModules](angularModules.md)
+* [dataBinding](dataBinding.md)
+* [angularCLI](angularCLI.md)
+* [lazyLoading](lazyLoading.md)
+* [angularComponents](angularComponents.md)
+* [treeShaking](treeShaking.md)
