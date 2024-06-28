@@ -48,11 +48,12 @@ nav:
     - CSS: CSS/general.md
     - Design-Patterns: Design-Patterns/general.md
     - Git: Git/general.md
-    - HTML: HTML/general.md
     - jQuery: jQuery/general.md
     - React: React/general.md
+    - Redux: Redux/general.md
     - Tailwind: Tailwind/general.md
     - Vite: Vite/general.md
+    - Zustand: Zustand/general.md
 extra_css:
     - assets/custom.css
 extra_javascript:
