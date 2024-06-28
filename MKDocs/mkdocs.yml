@@ -49,6 +49,7 @@ nav:
     - Design-Patterns: Design-Patterns/general.md
     - Git: Git/general.md
     - jQuery: jQuery/general.md
+    - Node.js: Node.js/general.md
     - React: React/general.md
     - Redux: Redux/general.md
     - Tailwind: Tailwind/general.md
